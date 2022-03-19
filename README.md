@@ -50,3 +50,6 @@ Embeddable Voice Assistant is a SwiftUI widget for mobile apps. It can communica
 Developing an IoT based fall detection system and which also sends an emergency SMS alert. https://github.com/sanyam-git/Fall-Detection-and-Health-Monitoring-System-IoT
 
 1st Place Winner of the Microsoft Discover Azure Hackathon and a regional (Americas) semi-finalist for Microsoft's Imagine Cup 2019. https://github.com/gaurav-karna/Ocularis
+
+
+🏥 ~ Project developed with Windows Forms and SQLServer https://github.com/danhpaiva/upa-helper-project
